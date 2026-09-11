@@ -162,19 +162,36 @@ Limitations of the model
 Deliverables
 
 The GitHub repository must contain:
+
 Jupyter Notebook (.ipynb) with complete code and outputs
+
 Text preprocessing implementation
+
 Tokenization and sequence generation
+
 Bag of Words / TF-IDF implementation
+
 Trained LSTM model
+
 Model evaluation metrics and visualizations
+
 Sentiment prediction examples
+
+
 README.md documentation explaining:
+
 Project overview and objective
+
 Dataset details
+
 Preprocessing steps
+
 Model architecture
+
 Training results
+
 Evaluation metrics
+
 Performance analysis and conclusion
+
 Google Drive / GitHub submission link
